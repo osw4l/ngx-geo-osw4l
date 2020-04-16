@@ -1,4 +1,4 @@
-# GeoWogo
+# Ngx Geo Osw4l
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
