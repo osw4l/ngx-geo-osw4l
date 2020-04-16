@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  google_maps_key: 'AIzaSyA91efj-IX3SF8Mh3Q81WMFL1IK-dXSmg4',
+  http_server: 'http://localhost:8000'
 };
 
 /*
